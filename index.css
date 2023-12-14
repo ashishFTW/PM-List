@@ -1,19 +1,18 @@
 .paragraph{
     color: white;
-    background-color: #8d6aff;
-}
+    background-color: #8d6aff;}
 #heading{
     color: white;
     background-color: #491569;
-    text-align: center;
-}
+    text-align: center;}
 .line{
-   background-color: #f1edff;
-}
-.a{
-    text-decoration: none;
-}
+   background-color: #f1edff;}
+
+a{
+    text-decoration: none;}
+
 .bank{
-    border: 10px ridge #8d6aff;
-   
-}
+    border-width: 10px;
+    border-style: ridge;
+    border-color: #8d6aff;} 
+
