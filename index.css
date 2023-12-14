@@ -10,3 +10,10 @@
 .line{
    background-color: #f1edff;
 }
+a{
+    text-decoration: none;
+}
+.bank{
+    border: 10px ridge #8d6aff;
+   
+}
